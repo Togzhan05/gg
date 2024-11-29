@@ -1,0 +1,9 @@
+*.temp
+*.bak
+*.backup
+*.logfile
+
+/elasticsearch_data/
+
+# Конфигурация мониторинга логов
+log_monitor_config.yml
